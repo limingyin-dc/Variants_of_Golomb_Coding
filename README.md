@@ -13,5 +13,4 @@ chmod u+x TestGolomb.sh
 To test Ours.c, run :  
 chmod u+x TestOurs.sh  
 ./TestOurs.sh  
-
 Please refer to the Experimental results.pdf to see the results on my machine.
